@@ -18,7 +18,9 @@ sample api url :http://localhost:8000/api/login
 
 -----------------------------------------------------------------------------------------------------
 1. Register Form
+
  sample url: http://localhost/test/public/register
+ 
 ![register](https://github.com/snehams2020/mozilor/assets/100792178/d68d6658-54ea-4a07-9dac-5e4769e4660e)
 
 validation on register form
@@ -26,7 +28,9 @@ validation on register form
 
 
 2.Login Form
+
 sample url :http://localhost/test/public/login
+
 ![login](https://github.com/snehams2020/mozilor/assets/100792178/1e4cf94f-a1b9-4424-a89c-6aae7794ec96)
 
 
