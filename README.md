@@ -10,6 +10,8 @@ Run php artisan serve (important.base url for api is added statically in code)
 
 used laravel 8.1
 
+sample csv file attached below
+
 -----------------------------------------------------------------------------------------------------
 1. Register Form
  
@@ -27,3 +29,8 @@ validation on register form
 ![home](https://github.com/snehams2020/mozilor/assets/100792178/81539fe2-77f6-48f3-a052-0d50615239b5)
 
 
+Sample CSV File
+------------------------------------------------------
+
+
+[testsample.xlsx](https://github.com/snehams2020/mozilor/files/13211776/testsample.xlsx)
