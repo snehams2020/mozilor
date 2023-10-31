@@ -4,7 +4,10 @@ Notes:
 ----------------------------------------------------------------------------------------------------
 
 Run php artisan migrate
+
+
 Run php artisan serve (important.base url for api is added statically in code)
+
 used laravel 8.1
 
 -----------------------------------------------------------------------------------------------------
